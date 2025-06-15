@@ -1,5 +1,9 @@
 # Assessment-2
 
+
+[1.jpeg]
+
+
 | Component            | Role                               |
 | -------------------- | ---------------------------------- |
 | **Django**           | Handles the backend logic          |
