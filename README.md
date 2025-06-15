@@ -1,7 +1,7 @@
 # Assessment-2
 
 
-[1.jpeg]
+![Question](1.jpeg)
 
 
 | Component            | Role                               |
