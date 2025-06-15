@@ -33,7 +33,7 @@ A Django-based Contact Management System that allows users to add, update, and d
 - **API:** Django REST Framework
 
 ## Getting Started
-
+![summery](14a6327a-ba95-4f23-a8b8-a4da01f8da7d.png)
 ### Prerequisites
 - Python 3.8+
 - MongoDB
