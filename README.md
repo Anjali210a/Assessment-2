@@ -13,7 +13,7 @@
 | **WebSocket**        | Keeps the browser always listening |
 
 
-
+![structure](gitpic/aa.png)
 
 # Contact Management System
 
@@ -87,6 +87,9 @@ __pycache__/
 *.pyc
 .env
 db.sqlite3
+
+
+![solution](gitpic/3d8945e7-559a-4f92-94db-16a1db0553b8.png)
 
 
 **Procfile**
