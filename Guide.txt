@@ -1,0 +1,49 @@
+🎯 To Build and Practice a Full-Stack Backend System That Performs CRUD Operations on User Data (Contacts)
+🔍 In More Detail:
+✅ 1. Practice Core Backend Development Skills
+Implementing Create, Read, Update, Delete (CRUD) logic
+
+Working with databases (MongoDB in your case)
+
+Creating RESTful APIs
+
+Handling data serialization (with Django REST Framework)
+
+✅ 2. Manage Real-World User Data
+Storing personal contact info (name, phone, email)
+
+Editing and deleting entries efficiently
+
+Ensuring data integrity and validation
+
+✅ 3. Real-Time Functionality with Django Channels
+Broadcasting contact updates live to connected users
+
+Learning how to use WebSockets + Redis in a Django project
+
+✅ 4. Gain Experience in Scalable, Modular Architecture
+Use of MVC (Model–View–Controller) design
+
+Creating reusable apps (contacts)
+
+Organizing code cleanly
+
+✅ 5. Learn Integration with MongoDB
+Practice using a NoSQL database in Django (via djongo)
+
+Understand the difference in structure compared to SQL (no strict schema)
+
+👨‍💻 In Short:
+This project trains you to build the backend of any data-driven app, from address books to CRM systems, while also learning:
+
+Django + REST APIs
+
+WebSocket (real-time)
+
+MongoDB (NoSQL)
+
+Redis (pub/sub)
+
+Modern backend architecture
+
+
