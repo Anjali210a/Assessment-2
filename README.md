@@ -69,23 +69,6 @@ Redis tells all users connected via WebSocket:
 
 
 
-contact_manager/
-├── manage.py
-├── contact_manager/
-│   ├── __init__.py
-│   ├── settings.py
-│   ├── urls.py
-│   ├── asgi.py       # Needed for Channels
-│   ├── wsgi.py
-├── contacts/
-│   ├── models.py
-│   ├── views.py
-│   ├── serializers.py
-│   ├── urls.py
-│   ├── consumers.py  # WebSocket handling
-├── requirements.txt
-
-
 
 
 | Component            | Role                               |
