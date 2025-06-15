@@ -12,9 +12,9 @@
 | **Channels + Redis** | Pushes real-time updates           |
 | **WebSocket**        | Keeps the browser always listening |
 
-
+---
 ![structure](gitpic/aa.png)
-
+---
 # Contact Management System
 
 A Django-based Contact Management System that allows users to add, update, and delete contact entries with real-time updates. Built with MongoDB as the backend database and Django Channels + Redis for WebSocket-based live updates.
@@ -34,6 +34,7 @@ A Django-based Contact Management System that allows users to add, update, and d
 
 ## Getting Started
 ![summery](gitpic/14a6327a-ba95-4f23-a8b8-a4da01f8da7d.png)
+---
 ### Prerequisites
 - Python 3.8+
 - MongoDB
@@ -80,7 +81,7 @@ Add a `Procfile` if deploying on Heroku:
 web: daphne contact_project.asgi:application
 ```
 
-
+---
 **.gitignore**
 venv/
 __pycache__/
@@ -88,9 +89,9 @@ __pycache__/
 .env
 db.sqlite3
 
-
+---
 ![solution](gitpic/3d8945e7-559a-4f92-94db-16a1db0553b8.png)
-
+---
 
 **Procfile**
 web: daphne contact_project.asgi:application
