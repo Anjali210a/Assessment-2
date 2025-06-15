@@ -56,7 +56,7 @@ So when you add/edit/delete a contact, all users see that change instantly.
 
 🔄 Example: What Happens When You Add a Contact
 You send a request like:
-"Add a contact: Yash, 9999999999, yash@mail.com"
+"Add a contact: Anjali, 9999999999, anjali@mail.com"
 using the API.
 
 Django receives it, saves it to MongoDB.
@@ -66,6 +66,24 @@ Django tells Redis:
 
 Redis tells all users connected via WebSocket:
 "New contact alert! Update your contact list!"
+
+
+
+contact_manager/
+├── manage.py
+├── contact_manager/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   ├── asgi.py       # Needed for Channels
+│   ├── wsgi.py
+├── contacts/
+│   ├── models.py
+│   ├── views.py
+│   ├── serializers.py
+│   ├── urls.py
+│   ├── consumers.py  # WebSocket handling
+├── requirements.txt
 
 
 
