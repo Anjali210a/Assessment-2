@@ -92,7 +92,8 @@ __pycache__/
 db.sqlite3
 
 ---
-#Output
+# Output
+
 ![solution](gitpic/3d8945e7-559a-4f92-94db-16a1db0553b8.png)
 ---
 
